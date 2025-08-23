@@ -1,5 +1,7 @@
 export * from './HexagonalCard'
 export * from './BaseCard'
+export * from './StoryCard'
+export * from './ProjectCardNew'
 export * from './CarmelCard'
 export * from './ChallengeCard'
 export * from './AssetGroupCard'
